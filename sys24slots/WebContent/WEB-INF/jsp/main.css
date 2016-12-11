@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+
+body
+{
+	background-color:purple;
+	
+}
+.cursor1:hover
+{
+	background-color:blue
+	
+}
+form{
+	background-color:wheat;
+}
